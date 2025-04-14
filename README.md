@@ -3,7 +3,7 @@
 ### Olá, meu nome é Thayná!
 ##
 
-<p> Aventureira no mundo da programação. <br/> Interessada nas áreas: Cybersecurity, QA e Desenvolvimento Web </p>
+<p> Aventureira no mundo da programação. <br/> Interessada em divesas áreas, como: Cybersecurity, QA, Desenvolvimento de Software e Web, e também gosto de mexer com Aduino de vez em quando :) </p>
 
 ##
 
